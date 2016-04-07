@@ -1,0 +1,14 @@
+﻿Build started 07/04/2016 09:36:10.
+     1>Project "C:\Users\lab422\Documents\Monitor-Lab\Monitor-Lab\Monitor-Lab.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\Boost\boost_1_60_0 /I"C:\mysql-connector" /I"C:\SFML-2.3.2\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Monitor-Lab.cpp"
+         Monitor-Lab.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lab422\Documents\Monitor-Lab\Debug\Monitor-Lab.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Boost\boost_1_60_0\stage\lib /LIBPATH:"C:\mysql-connector\lib" /LIBPATH:"C:\SFML-2.3.2\lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\lab422\Documents\Monitor-Lab\Debug\Monitor-Lab.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lab422\Documents\Monitor-Lab\Debug\Monitor-Lab.lib" /MACHINE:X86 "Debug\Monitor-Lab.obj"
+         Debug\stdafx.obj
+         Monitor-Lab.vcxproj -> C:\Users\lab422\Documents\Monitor-Lab\Debug\Monitor-Lab.exe
+     1>Done Building Project "C:\Users\lab422\Documents\Monitor-Lab\Monitor-Lab\Monitor-Lab.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.56
